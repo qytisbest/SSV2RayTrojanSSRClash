@@ -46,7 +46,6 @@
 - **超值赠送**：购买 3 个月以上套餐赠送 Netflix、Disney+ 独立车位；同时提供不限时纯流量包，月费低至 8 元以下；赠送 Emby 服务（含成人版），海量 4K 高清电影、电视剧、热门综艺实时更新.
 - **优惠活动**：
   - 新用户享 7.8 折（优惠码：`m78-22off`，永久有效）。
-  - 春节期间：季付 85 折（`season85`）、半年付 82 折（`halfyear82`）、年付 8 折（`year80`，截止至 2025/02/07）。
 - [👉 官网地址](https://bit.ly/3TJ0RYA)
 
 ### 6）[MESL](https://qbwiue.meslcloud.com/#/register?code=WniLD0Xj)
@@ -73,11 +72,6 @@
 - **核心卖点**：高端全 IEPL 专线，采用 SS 协议，4K 清晰不卡、8K 流畅，确保稳定的流媒体解锁体验.
 - **全球节点**：覆盖港、台、美、日、新加坡、印度尼西亚、越南、菲律宾、韩国、泰国、柬埔寨、蒙古国、德国、土耳其、法国、阿根廷、尼日利亚等，让你的上网体验更加丰富多彩.
 - **超值套餐**：年付套餐最低仅 15.6 元/月，让高品质网络服务唾手可得！
-- **优惠活动**:
-  - 春节季付 85 折（`season85`）
-  - 半年付 82 折（`halfyear82`）
-  - 年付 8 折（`year80`，截止至 2025/02/07）
-  - 春节全场 88 折（`2527`，活动至 2025/2/5）
 - [👉 官网地址](https://bit.ly/3ugbftg)
 
 ### 3）[智连云](https://xinzhilian.xyz/register?code=sWdm0JKC)
@@ -107,9 +101,7 @@
 - **核心卖点**：采用 SS 协议高端专线，三网 IEPL 专线接入及低倍率中转线路，总带宽超 10G，打造超稳定、超高速网络通道.
 - **全面解锁**：支持 Netflix、Disney+ 等国际流媒体及 ChatGPT；全球多节点覆盖，确保无论何时何地都能享受 4K 流畅、8K 超清体验.
 - **专属福利**：
-  - 购买任何套餐半年即赠送 1 个月；购买一年额外赠送 2 个月（活动时间：1月20日 - 2月1日，购买后需发工单申请）。
-  - 春节期间享 8 折优惠（优惠码：`HappyNewYear`，活动日期：1月20日 - 2月10日）。
-  - 同时，Halo Media 影院营提供 700TB 硬盘存储，直连国际优化线路，观赏全球精彩视频！
+  - Halo Media 影院营提供 700TB 硬盘存储，直连国际优化线路，观赏全球精彩视频！
 - [👉 官网地址](https://bit.ly/3A8mJ88)
 
 ### 8）[随心飞](https://suixinfei.co/#/register?code=lZCDAw1W)
@@ -145,33 +137,72 @@
 
 ---
 
-## 特殊介绍区
+## 实用海外工具推荐
 
 这里再推荐一些我亲自使用过、效果显著的辅助工具和平台，助你更高效便捷地享受海外网络资源：
 
 - **[TG群组搜索机器人](https://t.me/soso)**  
-  想发现更多有趣的电报群？试试这个搜索机器人，快速找到志同道合的小伙伴！  
+  想发现更多有趣的电报群？试试这个搜索机器人，快速找到志同道合的小伙伴！
+  
   👉 [https://t.me/soso](https://t.me/soso)
 
-- **[爱壹帆](https://www.iyf.tv/)**  
-  海量高清视频平台，涵盖电视剧、电影、动漫、综艺、纪录片及新闻，实时更新，让海外观影变得轻松有趣！  
-  👉 [https://www.iyf.tv/](https://www.iyf.tv/)
+- **[暗精灵社工库](https://t.me/AJL02_bot?start=7597927467)**  
+  暗精灵社工库，查询身份户籍，开房记录，手机机主，快递地址，贷款信息，QQ，微信，微博，贴吧，邮箱绑定关系！
+  
+  👉 [https://t.me/AJL02_bot?start=7597927467](https://t.me/AJL02_bot?start=7597927467)
+
+- **[小孩哥社工库](http://t.me/xiaohaigeSGK1_bot?start=gnpNw9HLkXKN4LO)**  
+  小孩哥社工库，查询身份户籍，开房记录，手机机主，快递地址，贷款信息，QQ，微信，微博，贴吧，邮箱绑定关系！
+  
+  👉 [http://t.me/xiaohaigeSGK1_bot?start=gnpNw9HLkXKN4LO](http://t.me/xiaohaigeSGK1_bot?start=gnpNw9HLkXKN4LO)
+
+- **[黑盒blackbox社工库](https://t.me/BOXsgkbot?start=YhYcPj4)**  
+  黑盒blackbox社工库，查询身份户籍，开房记录，手机机主，快递地址，贷款信息，QQ，微信，微博，贴吧，邮箱绑定关系！
+  
+  👉 [https://t.me/BOXsgkbot?start=YhYcPj4](https://t.me/BOXsgkbot?start=YhYcPj4)
+
+- **[X-ray社工库](https://t.me/Zonesgk_bot?start=YTAYAQYSXY)**  
+  X-ray社工库，查询身份户籍，开房记录，手机机主，快递地址，贷款信息，QQ，微信，微博，贴吧，邮箱绑定关系！
+  
+  👉 [https://t.me/Zonesgk_bot?start=YTAYAQYSXY](https://t.me/Zonesgk_bot?start=YTAYAQYSXY)
+
+- **[GnoranceX社工库](https://t.me/GnoranceX_bot?start=3hnlycr)**  
+  GnoranceX社工库，查询身份户籍，开房记录，手机机主，快递地址，贷款信息，QQ，微信，微博，贴吧，邮箱绑定关系！
+  
+  👉 [https://t.me/GnoranceX_bot?start=3hnlycr](https://t.me/GnoranceX_bot?start=3hnlycr)
 
 ---
 
-## 实用海外工具推荐
+## 实用海外网站推荐
 
 这些网站能帮助你解决临时验证、下载视频、寻找经典游戏等需求，让你的海外体验更加丰富便捷：
 
-1. **临时邮箱收验证码**：  
-   [https://temp-mail.org](https://temp-mail.org)
-2. **临时手机号（收验证码）**：  
-   [https://www.materialtools.com/](https://www.materialtools.com/)  
-   [https://sms-activate.org/cn](https://sms-activate.org/cn)
-3. **下载 YouTube 视频和字幕**：  
-   [https://addyoutube.com/](https://addyoutube.com/)
-4. **小霸王游戏在线玩**：  
-   [https://www.yikm.net/](https://www.yikm.net/)
+- **[爱壹帆](https://www.iyf.tv/)**  
+  海量高清视频平台，涵盖电视剧、电影、动漫、综艺、纪录片及新闻，实时更新，让海外观影变得轻松有趣！
+  
+  👉 [https://www.iyf.tv/](https://www.iyf.tv/)
+
+- **[临时邮箱收验证码](https://temp-mail.org)**  
+  临时邮箱接收验证码，保护隐私！
+  
+  👉 [https://temp-mail.org](https://temp-mail.org)
+
+- **[临时手机号收验证码](https://sms-activate.org/cn)**  
+  临时手机号接收验证码，保护隐私！
+  
+  👉 [https://www.materialtools.com/](https://www.materialtools.com/)
+  
+  👉 [https://sms-activate.org/cn](https://sms-activate.org/cn)
+
+- **[下载 YouTube 视频和字幕](https://addyoutube.com/)**  
+  下载YouTube视频，离线观看！
+  
+  👉 [https://addyoutube.com/](https://addyoutube.com/)
+
+- **[小霸王游戏在线玩](https://www.yikm.net/)**  
+  小霸王经典游戏，勾起童年回忆！
+  
+  👉 [https://www.yikm.net/](https://www.yikm.net/)
 
 ---
 

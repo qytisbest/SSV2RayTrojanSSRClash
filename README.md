@@ -25,7 +25,7 @@
 - **独有特色**：独家保障新疆地区，支持 Windows/Mac/iOS/Android/路由器，多设备同时使用.
 - **专属福利**：注册即享 **3 天免费体验**（“白嫖”福利）。
 - **优惠活动**：
-  - 端午节 85折 促销码 `15%OFF`，即日起至2025-06-06 23:59:59截止
+  - 端午节 85折 促销码：`15%OFF`，即日起至2025-06-06 23:59:59截止
 - [👉 官网地址](https://bit.ly/476L1M5)
 
 ### 3）[FastLink](https://flafflnk.flaff9.cc/auth/register?code=je8N)
@@ -87,7 +87,7 @@
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **超值套餐**：提供 **不限时纯流量一次性套餐**，随用随付，经济实惠！
 - **优惠活动**：
-  - 端午节 月付 / 季付 / 一次性套餐 8折 促销码 `Loongmeow`，即日起至2025-06-03 23:59:59截止
+  - 端午节 月付 / 季付 / 一次性套餐 8折 促销码：`Loongmeow`，即日起至2025-06-03 23:59:59截止
 - [👉 官网地址](https://bit.ly/4b5uYzO)
 
 ### 3）[AIFUN](https://dash.afun.la/register?code=O023jSpg)
@@ -125,7 +125,7 @@
 - **流媒体解锁**：解锁Netflix、Disney+、Hulu、HBO、Max、Paramount、AmazonPrime、DAZN等主流流媒体。 解锁 ChatGPT。
 - **无限流量**：提供 **不限时“纯流量”套餐**，无月付、季付或年付限制，用多少算多少，月费低至 7.8 元，让你尽享无限畅游.
 - **优惠活动**：
-  - 端午节 月付 / 季付 / 半年付、年付套餐 85 折 促销码 `61@85`，即日起至2025-06-03 23:59:59截止
+  - 端午节 月付 / 季付 / 半年付、年付套餐 85 折 促销码：`61@85`，即日起至2025-06-03 23:59:59截止
 - [👉 官网地址](https://bit.ly/4fivvyN)
 
 ### 7）[饭饭云](https://ffkjwl.com/#/register?code=9DwbVMfh)
